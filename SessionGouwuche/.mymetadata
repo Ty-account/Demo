@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SessionGouwuche"
+  id="myeclipse.1457311337315"
+  context-root="/SessionGouwuche"
+  j2ee-spec="5.0"
+  archive="SessionGouwuche.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
